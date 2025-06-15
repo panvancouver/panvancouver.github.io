@@ -1,0 +1,109 @@
+---
+title:  "Letter"
+---
+
+February 14, 2017
+
+The Honourable Christy Clark, Premier of BC
+The Honourable Mike de Jong, Minister of Finance
+The Honourable Mike Bernier, Minister of Education
+
+Dear Premier and Ministers,
+
+The purpose of the provincial education system is set out in the [BC School Act](http://www.bclaws.ca/civix/document/id/complete/statreg/96412_00): to enable all learners—regardless of race, gender, ability, or economic means—“to become literate, to develop their individual potential and to acquire the knowledge, skills and attitudes needed to contribute to a healthy, democratic and pluralistic society and a prosperous and sustainable economy.” Furthermore, the [BC Statement of Education Policy Order](http://www2.gov.bc.ca/assets/gov/education/administration/legislation-policy/legislation/schoollaw/d/oic_128089.pdf) (Mandate for the School System) confirms that “government is responsible for ensuring that all of our youth have the opportunity to obtain high-quality schooling that will assist in the development of an educated society.” In practice, provincial funding for K-12 public education has proven inadequate to satisfy this mandate.
+
+The [current service plan](http://www.bcbudget.gov.bc.ca/2016/sp/pdf/ministry/educ.pdf?page=) of $4.6 billion in operational grants for public education for 2016/17 is insufficient to provide all children in BC, without discrimination, equal access to educational opportunities across the entire curriculum and in accordance with their learning needs to allow them to reach their full potential as individuals and as citizens of our society.
+
+Therefore, we demand that the provincial government increase K-12 public education annual operational funding by 20% to redress all of the current deficiencies and fully prioritize and revitalize our education system to ensure an equitable quality education for all children.
+
+Each year, structural underfunding has forced school districts across BC to “balance budgets” with
+increasingly deficient funds—specialist teachers, teacher librarians, core programs, basic resources, and vital student and special needs supports have been systematically and cumulatively eliminated from schools, disproportionate to enrolment decline. The reprehensible reality is that half a million children are being denied equitable and full access to the educational opportunities to which they are entitled under the BC School Act and which are emphasized within the revised BC curriculum. As a result, parents are subsidizing their children’s education by raising funds to equip schools with basic educational resources; many parents are privately outsourcing art and music classes, sports programing and vital remedial supports. Children whose parents lack the means to make up for government underfunding—and there are many: 19.3% of BC’s children live in poverty—must do without. In these ways, underfunding has created unacceptable inequality in educational opportunity for children based on economic advantage. This situation undermines the very democratic principles of equitable access to education on which the BC School Act is predicated.
+
+This grave situation has repeatedly been brought to the attention of the government through letters from individual school districts and the BC School Trustees Association and from its own all-party [Select Standing Committee for Finance and Government Services](https://www.leg.bc.ca/content/CommitteeDocuments/40th-parliament/5th-session/fgs/Reports/FGS-2016-11-15-Report_BudgetConsultation.pdf) (2014/15, 2015/16, and 2016/17), which affirmed that public education is not adequately supported by public funds. Most recently the unequivocal ruling of the [Supreme Court of Canada](https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/16241/index.do) (November 2016) has confirmed that the stripping of class size and composition language from the teachers’ collective agreement was unlawful—an action that has had innumerable detrimental impacts on educational opportunities for children over the past 15 years.
+
+While we welcome the $50 million interim deal and the immediate relief it will provide, we have yet to hear a commitment to provide the estimated $300 million in additional, predictable, ongoing operational funds that would be needed to comply with the Supreme Court of Canada’s ruling.
+
+The government of British Columbia has [claimed](http://www.cbc.ca/news/business/conference-board-canadian-growth-1.3633173) that our province “has the strongest and fastest growing economy in Canada”. As we live in a province of prosperity with a $2-billion-plus budget surplus, there is no impediment for government to discharge its financial and legal responsibility to establish a level of funding that ensures the "[needs of students are met first and foremost](http://www.bcliberals.com/blog/path-forward-k-12-education/)”.
+
+**That all children in BC attend safe and educationally appropriate schools**
+
+The government states “[the safety of BC students is vital](http://www2.gov.bc.ca/gov/content/education-training/administration/resource-management/capital-planning/seismic-mitigation-program).” Despite the commitment to upgrade all public school facilities identified as being at “High Risk” of structural collapse in an earthquake, only 155 of 342 schools have been completed. There is a lack of transparency in the seismic approval process which deems many schools ineligible or sees many stalled at the project definition stage, in some instances for more than 10 years. Parents refuse to accept the glacial speed of seismic upgrades. With the government’s revised target date of 2025/2030 approaching, there remain 118 schools which have not yet even begun the seismic approval process.
+
+School districts in the Lower Mainland must try to coordinate multiple projects simultaneously, including seismic upgrades. The failure to provide new facilities in areas of population growth such as Chilliwack and Surrey has led to overcrowding and the proliferation of temporary portables as “permanent” facilities, as well as the busing of children over long distances. Furthermore, funding constraints are pressuring school districts to cut costs to “balance budgets” by closing schools even though smaller neighbourhood schools are shown to be the best learning environments for children. All school districts need sufficient funds and flexibility to implement a truly comprehensive plan that respects districts’ priorities for social and economic sustainability.
+
+The government’s bottom-dollar approach to seismic projects—its refusal to fund temporary accommodation, its piecemeal approach to project approval, and its continued use of discriminatory capacity thresholds as a precondition for funding—obstructs progress and jeopardizes children’s lives. It is imperative that government make available sufficient capital funding to ensure all children learn in safe and educationally appropriate facilities.
+
+Therefore we demand:
+* The immediate approval of all projects currently prioritized by school districts for seismic mitigation and support for comprehensive plans developed by local school districts for their completion by 2025/2030.
+* The funding of portables, where necessary, for temporary accommodation during seismic upgrades, not forced school closures to create swing space.
+* The replacement of old schools where existing schools are close to or exceeding their life expectancy, to address soaring deferred maintenance costs.
+* Proactive funding for new school construction in areas of current and anticipated population growth.
+* Funding approaches that recognize the fixed costs of operating school facilities to protect smaller neighbourhood schools as the best learning environment for children.
+
+
+**That all children in BC receive fully-funded high-quality education across the entire curriculum**
+
+The new BC curriculum encompasses the full spectrum of human and social development across cultural, aesthetic, social, physical, and academic domains. However, the combination of chronic underfunding, and government policies that narrow the scope of “educational outcomes” has depleted the quality and breadth of educational opportunities for K-12 public education.
+
+The BC School Act recognizes both the civic and economic responsibility in developing each student’s individual potential, by equipping students with the knowledge, skills and attitudes needed to contribute to a healthy, democratic, and pluralistic society. However, the recent [Ministry of Education Service Plan](http://www.bcbudget.gov.bc.ca/2016/sp/pdf/ministry/educ.pdf?page=) for 2016-2019 which outlines the government’s aim for the transformation of the education system has redefined K-12 education for a purely economic purpose. This has massive repercussions for our society’s the security and stability, which depends, more than ever, on compassionate, broad minded citizens who can shape our future society on the principles of equality, tolerance, justice and environmental sustainability for all.
+
+In elementary schools across BC, underfunding has decimated arts education largely through the loss of specialist teachers. This has been reinforced by the Ministry of Education [Area Standards](http://www2.gov.bc.ca/assets/gov/education/administration/resource-management/capital-planning/areastandards.pdf), which eliminates art, music, and performance spaces from standard elementary school design blueprints. The arts are part of the core BC curriculum; they are crucial to the development of social-emotional health and skills necessary to participate in the creative economy of the 21st century. They have been shown through evidence-based research to be instrumental in closing the gap between life outcomes for children raised in poverty.
+
+In secondary schools, the [changes to graduation requirements](http://www2.gov.bc.ca/gov/content/education-training/administration/legislation-policy/public-schools/graduation-requirements) (2004), including a reduction in upper-level course requirements and the specific elimination of fine arts and applied skills, second language proficiency, and physical education as core requirements, have depleted the availability and accessibility of core and elective courses. This is further exacerbated by the government’s endorsement of outsourced equivalency credits and severe funding constraints which only allow courses to run at full capacity. As a result of diminished options available in local secondary schools, students are forced to take courses online, travel between high schools, or most often do without. This has serious consequences for the equitable access of high school students to a quality education and the limiting of future vocational and post-secondary opportunities.
+
+Therefore we demand:
+* Sufficient additional ongoing operational funding to enable all public schools to offer a high quality education across the entire K-12 curriculum.
+* The restoration of fine arts programming in all BC elementary schools, by funding specialists, equipment, and supplies.
+* The immediate restoration of pre-2004 graduation requirements to support a comprehensive and full-time schooling for students through Grade 12.
+* Sufficient funding to allow upper-level courses to run at lower capacity thresholds to ensure that all secondary students have access within their local high school to a full range of core curricular and electives courses offered within the BC curriculum.
+
+**That all children in BC have access to the staff and resources they need to learn**
+
+The government’s own [policy on diversity](https://www.bced.gov.bc.ca/diversity/diversity_framework.pdf) in BC schools clearly states that the school system “should strive to ensure that differences among learners do not impede their participation in schools, their mastery of learning outcomes, or their ability to become contributing members of society.” These differences include language, ability, and socio-economic background. However, current funding does not allow for the meaningful inclusion of children with special needs within manageably sized classrooms, teaching support for English Language Learners (ELL), sufficient levels of assistance for vulnerable children, or the equitable access to educational resources and programming across all schools. This is a betrayal of our most vulnerable children.
+
+Government’s own data has shown that class size and classroom composition have worsened over the last 15 years. These problems are particularly notable at the primary level, where average class sizes have increased despite persistently high percentages of ELL students and increasing numbers of special needs children. In grades 4-12 the number of classes with four or more students entitled to an Individual Education Plan (IEP) has increased from 10,172 in 2007/8 to 16,274 in 2015/16. Shamefully, less than 50% of the 60,871 children entitled to an IEP in 2015/16 received any additional funding for support. A [BC Parents of Special Needs](https://equitableaccesstoeducation.wordpress.com/forced-out-survey-results/) survey reports that 31% of children with special needs who have left the public system did so due to lack of appropriate classroom support. Their parents cited deteriorating emotional health of their child as the significant factor.
+
+Poverty is still the greatest impediment to academic and personal achievement for children. Levels of child poverty remain persistently high at 19.3% on average across BC, with 109,331 school-aged children today living below the poverty line. Poverty disproportionately impacts children of Aboriginal, immigrant and single-parent families. [Research shows](https://www.researchgate.net/publication/237239069_Cost_Estimates_of_Dropping_Out_of_High_School_in_Canada) that smaller schools and class sizes make a significant and positive impact on educational outcomes for vulnerable children and that improving educational outcomes produces long-term economic and societal benefits. The [current funding supplements](https://thetyee.ca/News/2016/03/14/School-Districts-Vulnerable-Students-Unsupported), designed to address the impacts of poverty, [have not increased](http://firstcallbc.org/news/2016-bc-child-poverty-report-card-release/) beyond inflation since their inception in 2004, and are woefully inadequate to address the needs of children in poverty.
+
+In secondary schools, the [changes to graduation requirements](http://www2.gov.bc.ca/gov/content/education-training/administration/legislation-policy/public-schools/graduation-requirements) (2004), including a reduction in upper-level course requirements and the specific elimination of fine arts and applied skills, second language proficiency, and physical education as core requirements, have depleted the availability and accessibility of core and elective courses. This is further exacerbated by the government’s endorsement of outsourced equivalency credits and severe funding constraints which only allow courses to run at full capacity. As a result of diminished options available in local secondary schools, students are forced to take courses online, travel between high schools, or most often do without. This has serious consequences for the equitable access of high school students to a quality education and the limiting of future vocational and post-secondary opportunities.
+
+Therefore we demand:
+* The immediate and unequivocal allocation of the estimated $300 million of additional annual funding needed to comply with the ruling of the Supreme Court of Canada to begin to address class size and composition.
+* The immediate addition of funding, trained staff and resources to support the early identification, designation, and meaningful inclusion of students with special needs, in order to meet their learning needs.
+* An immediate increase to CommunityLINK and Vulnerable Student Supplement funding given to school districts to address the nutritional and social-emotional needs of children living in poverty.
+* Sufficient operational funds to supply schools with the necessary furniture, educational resources and equipment needed to provide a quality education in all areas of the BC curriculum including and fully funded, and staffed school libraries with access to digital technologies.
+
+
+**In conclusion**
+
+Current annual funding for K-12 public education is insufficient for government to satisfy its mandate to provide a high quality education to all learners as outlined in the [BC School Act](http://www.bclaws.ca/civix/document/id/complete/statreg/96412_00) and the [BC Statement of Education Policy Order](http://www2.gov.bc.ca/assets/gov/education/administration/legislation-policy/legislation/schoollaw/d/oic_128089.pdf). Government’s assertion of “record funding” serves to obscure the everyday reality in schools.
+
+Structural underfunding, the persistent erosion of the breadth and quality of educational programs, and the continual reduction of resources within the public system have cumulatively created unacceptable levels of inequality and discrimination that violate the democratic purpose of the education system. This has dire implications for the future health, stability, and economic prosperity of our province as they are dependent on the strength of our public education system, as the foundation of our common “wealth”.
+
+We reiterate that the provincial government must increase K-12 public education annual operational funding by 20% to redress all of the current deficiencies and fully prioritize and revitalize our education system to ensure an equitable quality education for all children.
+
+Investing in the provision of a high-quality education for all children in this province is your legal obligation and duty as representatives of the citizens of British Columbia. Anything less is a betrayal of public trust.
+
+Signed on behalf of these parent and advocacy groups:
+
+* [Parent Advocacy Network for Public Education](http://www.panvancouver.ca/)
+* [Chilliwack District Parent Advisory Council](http://www.sd33.bc.ca/parents-students/dpac)
+* [Comox Valley Families for Public Education](https://www.facebook.com/comoxvalleyfamiliesforpubliceducation/)
+* [Families Against Cuts to Education](https://facebc.wordpress.com/2015/05/01/face-nanaimo/)
+* [Public Education Network Society](http://www.publiceducationnetworksociety.com/the-charter.html)
+* [Richmond Schools Stand United](http://www.richmondschoolsunited.ca/)
+* [Seismic Safety for BC Schools Committee](https://www.facebook.com/groups/SeismicSafetyBCSchools/)
+* [South East Kootenay District Parent Advisory Council](http://www.sd5.bc.ca/studentparent/DPAC/contact_us/Pages/default.aspx)
+* [Surrey Students Now](http://www.southnewtoncommunity.com/)
+
+CC:
+Dave Byng, Deputy Minister of Education
+Suzanne Hoffman, Chief Educator
+Hon John Horgan, Leader NDP Opposition
+Hon Rob Fleming, NDP Opposition Spokesperson for Education
+Hon Jodie Wickens, NDP Deputy Spokesperson for Education
+Hon Andrew Weaver, Leader of the BC Green Party
+Hon Scott Hamilton, Chair, Select Standing Committee on Finance & Government Services
+Hon Carole James, Deputy Chair, Select Standing Committee on Finance & Government Services
+Teresa Rezansoff, President, BCSTA
+Glen Hansman, President, BCTF

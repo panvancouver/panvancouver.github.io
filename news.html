@@ -1,0 +1,19 @@
+---
+layout: default
+title: News
+---
+
+<main id="main">
+    <h1>News</h1>
+  
+    {% for post in site.posts %}
+      <a  class="headline" href="{{ post.url }}">
+        <article>
+          <h2>{{ post.title }}</h2>
+          <p class="date">{{ post.date | date_to_string }}</p>
+          <p class="lead">{{ post.lead }}</p>
+        </article>
+      </a>
+    {% endfor %}
+  
+</main>

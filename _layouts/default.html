@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <meta charset="utf-8" />
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <title>{{ page.title | xml_escape }}</title>
+        <meta name="viewport" content="width=device-width" />
+
+        <link rel="stylesheet" href="/css/main.css" />
+    </head>
+    <body>        
+      <header>
+        <nav>
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/news">News</a></li>
+            <li><a href="/about">About</a></li>
+          </ul>
+        </nav>        
+      </header>
+      <main>
+      {{ content }}
+      </main>
+      <footer>                  
+        <p>PAN is the Parent Advocacy Network for Public Education. We are a grassroots collective of parents across Vancouver who share a commitment to public education. ​To contact a representative of PAN, email <a href="mailto:parentadvocacynetwork@gmail.com">parentadvocacynetwork@gmail.com</a></p>
+        <p>Copyright {{ site.time | date: '%Y' }} PAN Vancouver. All Rights Reserved</p>
+      </footer>        
+    </body>
+</html>
