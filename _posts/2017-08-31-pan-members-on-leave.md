@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two PAN members on leave to run in by-election"
-date: 2017-09-16
+date: 2017-08-31
 lead: "The Parent Advocacy Network steering committee is excited to see two of its long-standing members - Carrie Bercic and Erica Jaaf - take a leave of absence from PAN to run in the upcoming school trustee by-election under OneCity."
 ---
 
