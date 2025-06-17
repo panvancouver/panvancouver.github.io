@@ -29,4 +29,5 @@ There may also be opportunities to look to other ministries to fund costs that t
 In short, a successful funding review will include the questions: What is included in a quality public education? How do we make sure educational services are delivered equitably? and What is the role of the school in the community?
 
 Sincerely,
+
 The Parent Advocacy Network

@@ -13,4 +13,4 @@ On the capital side, the playground fund is much appreciated, but it is importan
  
 In terms of seismic replacement schools, new schools, and getting children out of portables, we are glad to hear that the government is committed to speeding up its work in these areas; we look forward to not just announcements, but shovels in the ground and children in safe schools.
 
-Read our full brief ([download pdf)](/downloads/180226_pan_response_to_budget_media_release_v1.pdf)).
+Read our full brief ([download pdf](/downloads/180226_pan_response_to_budget_media_release_v1.pdf)).
