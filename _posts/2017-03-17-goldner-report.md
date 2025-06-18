@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Parent Concerns: Response to the Goldner Report"
+date: 2017-03-17
+lead: "The Parent Advocacy Network (PAN) is concerned with aspects of the recently released Goldner Report that imply that those who ask probing questions or disagree with policy decisions are considered a problem. This approach is incompatible with citizens’ rights within our democracy."
+---
+
+The Parent Advocacy Network (PAN) is concerned with aspects of the recently released [Goldner Report](http://s3.documentcloud.org/documents/3512293/Rosyln-Goldner-Report-Redacted-Mar-7-17.pdf) that imply that those who ask probing questions or disagree with policy decisions are considered a problem. This approach is incompatible with citizens’ rights within our democracy. While we do not condone behaviour that is rude, abusive, or intimidating, it is the right and duty of citizens to examine and call into question, when necessary, the actions of any public body, including the Vancouver School Board (VSB), on issues that directly impact their communities and families.
+
+The policies of the VSB clearly state that “The Board has an obligation to listen to citizens' concerns” and that “the concept of Board membership as a public trust also implies, however, that the public frequently approaches individual Board members with specific requests or concerns.” The obligation of trustees and stakeholder representatives is to hear and represent the public’s concerns to staff and is especially germane when the proposed policies will have severe impacts in both the short term (on current students) and the long term (on the delivery and availability of public education in Vancouver for generations to come). Respectful questioning directed towards best possible and impartial decision making in the educational interests of students is due diligence and should not be equated with partisan political intent.
+
+During the public consultation processes for the VSB Long Range Facilities Plan, the 2016/17 Budget, and the potential school closures, staff and trustees heard strong, heartfelt, and passionate appeals from students, parents, teachers, staff, on-site childcare providers, non-profit groups, and many others. Citizens affected by budget and policy decisions within the district were motivated to speak out, to express concern or even outrage because their communities, their lives, and the lives of their children were being severely impacted. These responses were not partisan; they were personal.
+
+Within the current public education paradigm—which includes insufficient and unstable funding, annual budget shortfalls, and uncertain implications of the Supreme Court ruling such as impact for special needs children and kindergarten registration—parents are engaged, concerned, and have the right to be heard. PAN believes that all children have a right to high quality public education, accessible in their own neighbourhoods, in educationally appropriate and seismically safe buildings with the resources and staff necessary to meet their learning needs. We are committed to informed, respectful, and non-partisan advocacy to raise awareness about the need for secure, adequately funded, and sustainable public education for BC’s children and for the wellbeing of our whole society.
+
+We stand by our concerns and our communications that were respectfully written and relayed to the VSB staff and trustees regarding the Long Range Facilities Plan, the school closure list, and the closure consultation process. We raised relevant issues and asked probing questions in an effort to ensure that, if school closures were necessary, schools would be closed in a manner and through a process that ensured future sustainability and equity in public education in our city.
+
+We will continue to advocate for the best possible public education for our children and all children in Vancouver, as is our right, by speaking up and asking questions about the policies, actions, and plans of the VSB, whether it is led by elected or appointed trustees.
+
+Asking questions does not equate to partisanship or disrespect. It is an important and necessary duty of citizens in a democracy.
+​([download pdf](/downloads/20170317_pan_response_to_golder_report.pdf))
