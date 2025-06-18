@@ -135,3 +135,11 @@ a.headline {
     margin: 0 auto 1ch auto;
     display: block;    
 }
+
+.video {
+    position: relative;    
+}
+
+.video > iframe {
+   position: absolute;
+}
