@@ -29,6 +29,6 @@ Budget 2017 does not provide supports for the thousands of children designated w
  
 The government’s continued failure to provide adequate, predictable, and sustainable funding for K-12 public education to meet the learning needs of all students and the resulting disparity between educational equality based on economic advantage that is occurring as a direct result is in contravention of the democratic purpose of education as set out in the [BC School Act](http://www.bclaws.ca/civix/document/id/complete/statreg/96412_00).
  
-We [reiterate our call]() on the provincial government to increase K-12 public education annual operational funding by 20% to redress all of the current deficiencies and reprioritize our education system to ensure an equitable quality education for all children.
+We [reiterate our call](/2017/02/14/demands) on the provincial government to increase K-12 public education annual operational funding by 20% to redress all of the current deficiencies and reprioritize our education system to ensure an equitable quality education for all children.
 
 See [Provincial Letter](/downloads/pan_public_ed_demands_to_govt_feb_14_2017.pdf) and [Declaration](/declaration) in Defence of Public Education. 
