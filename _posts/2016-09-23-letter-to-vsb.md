@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PAN Letter to VSB Trustees Re: School Closures﻿"
+title: "PAN Letter to VSB Trustees Re: School Closures"
 date: 2016-09-23
 lead: "We write today because we are deeply troubled by the process and approach the VSB is currently taking with respect to school closures."
 ---
@@ -18,7 +18,7 @@ Dear Trustees,
 
 We write today because we are deeply troubled by the process and approach the VSB is currently taking with respect to school closures.
 
-We understand the pressure to eliminate “inefficiencies” in facilities usage to secure seismic funding (despite the Minister of Education’s recent removal of a firm 95% capacity utilization target), and we understand the fiscal pressures that are driving the recommendation of multiple school closures on a much faster timeline than is laid out in the Long Range Facilities Plan (LRFP). However, we are extremely concerned that closures of this magnitude, which will have a massive and long-term impact on the provision of education within our district, are being executed without sufficient time or public input to consider the complexity of factors that affect students and neighbourhoods.
+We understand the pressure to eliminate “inefficiencies” in facilities usage to secure seismic funding (despite the Minister of Education’s [recent removal](http://vancouversun.com/news/local-news/b-c-government-removes-95-utilization-target-for-school-upgrades) of a firm 95% capacity utilization target), and we understand the fiscal pressures that are driving the recommendation of multiple school closures on a much faster timeline than is laid out in the Long Range Facilities Plan (LRFP). However, we are extremely concerned that closures of this magnitude, which will have a massive and long-term impact on the provision of education within our district, are being executed without sufficient time or public input to consider the complexity of factors that affect students and neighbourhoods.
 
 Such factors include the distribution of enrolment within and outside catchment areas, the needs of vulnerable students and communities, and changes in the distribution of school-age children within the city. We urge you to halt the closure process now, and to draw up a revised proposal that better serves the long-term interests of students and communities.
 
