@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Provincial checkmate - Underfunding, Capacity Target & Seismic Restrictions force closure"
+date: 2016-08-23
+lead: "Parent Advocacy Network Responds to Vancouver School Board List of Schools for Closure"
+---
+
+[pdf version](/downloads/pan_statement_media_release_august_23_2016.pdf)
+
+*Parent Advocacy Network Responds to Vancouver School Board List of Schools for Closure*
+
+The Parent Advocacy Network (PAN) has serious reservations about the Vancouver School Board’s (VSB) recommendation of 12 schools identified for closure as early as June 2017. A simultaneous closure of this scale would cause massive disruption and upheaval across the district, displacing 3,188 children, impacting thousands more through crowding and consolidation, and dismantling support networks vital to the well-being of many families.
+
+PAN recognizes the need of School Boards to align their facilities with changing demographics and educational priorities; however, we believe this extreme proposal is not in the best interests of children's education, community needs, or even taxpayers' returns. Rather, it is the only option left to a Board crippled by years of underfunding and held hostage by the efficiency-driven restrictions and the educationally unsound 95% capacity utilization target mandated by the provincial government as a precondition for seismically upgrading schools. Vancouver has 69 schools (more than 50% of the entire number in BC) that remain at high risk for structural collapse in the event of an earthquake.
+
+A 95% capacity utilization mandate, based on profit margin accounting and not on educational priorities, does not allow sufficient space to meet the learning needs of all children. This current proposal alone would jeopardize 12 music and arts spaces, 3 early childhood programs, and 5 on-site before/after school care programs. It would also restrict the VSB's ability to use space as an essential resource for the 25 special needs programs that operate throughout the district, as well as tiered schools with high levels of at-risk children — disproportionately impacted in this closure list — who require smaller class sizes and additional support space to meet complex learning needs. Closing lower capacity schools, with highly vulnerable populations, and stuffing larger facilities to or over capacity, may meet government's “efficiency” standards, but will take a heavy toll on the socio-emotional well-being of these students.
+
+Of further concern is that capacity utilization percentages do not reflect the viability of a school community or where student populations actually reside. Up to 40% of Vancouver public school students do not attend their catchment school. This is one of the legacies of choice legislation, introduced in 2002, to encourage a consumer model of education. This has resulted in a net migration of students away from schools in lower income areas, where housing is most affordable and where families are more densely located. Closures that structurally reinforce a misalignment of school facilities with actual population will seriously affect the viability of neighbourhoods for the future.
+
+PAN is extremely concerned that the 95% capacity target, recklessly pursued by the provincial government, is being used to justify continued underfunding of public education and reduce the government’s obligation to make schools seismically safe for children.
+
+The VSB estimates that it will only save $8.8 million from the closure of 12 schools, with only $5.1 million directly related to facilities costs. This is woefully inadequate in the face of this year’s $21.8 million shortfall and the estimated $79 million of increased funding needed to restore educational services in Vancouver to 2001 levels, even accounting for declined enrollment. The provincial government has created a crisis out of surplus space to deflect attention away from the real ongoing crisis, which is the completely inadequate and unsustainable amount of funding allocated to public education.
+
+There are better and more cost-effective ways of addressing surplus capacity that align schools with community needs. First, building and right-sizing replacement schools rather than simply adding structural reinforcement would align community needs with school facilities and, given $708 million already accumulated in deferred maintenance costs, save the government over $200 million in capital expenditures in Vancouver over a 40-year life cycle. Second is the recognition and preservation of school spaces that have been re-purposed for community programs such as desperately needed early childhood education and care. This progressive vision of creating “Neighbourhoods of Learning,” initiated by the BC Liberals in 2008 but now forgotten, recognizes the ebb and flow of enrollment patterns, preserves space for future student populations, and provides essential services for communities.
+
+Unfortunately, the provincial government's capacity restrictions, its bottom-dollar approach to upgrades, and its refusal to fund temporary accommodation during seismic construction do not give the VSB the funds or the flexibility needed to make fiscally prudent or educationally beneficial decisions for students.
+
+**PAN once again calls upon the provincial government to respect the recommendations of its own Select Standing Committee: to provide adequate capital funding to school districts for facility improvements and seismic upgrades and to also provide stable, sustainable, and adequate funding to enable school districts to fulfill their educational mandate to provide accessible, equitable, and quality public education to all  children.**
