@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VSB Announces Its Preliminary List of Schools for Closure Consideration. PAN Mourns."
+title: "VSB announces its preliminary list of schools for closure consideration. PAN mourns."
 date: 2016-06-21
 lead: "On June 20, 2016 the VSB released a list of 12 schools which it is considering for closure: 4 annexes, 6 elementary and 2 secondary schools, all but one on the eastside."
 ---
