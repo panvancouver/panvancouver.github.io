@@ -13,7 +13,7 @@ We are sharing our research and findings related to the school closure situation
 * On October 3, 2016 the VSB Board of Trustees [voted to suspend the closure process](https://www.vsb.bc.ca/district-news/vancouver-board-education-suspends-school-closure-process).
 * On October 4, 2016 the Minister of Education issued [this response](https://news.gov.bc.ca/releases/2016EDUC0123-001897). We now wait to see what, if any, further action he will take. 
 
-The details of the 2016-17 potential school closure list have been [moved](). 
+The details of the 2016-17 potential school closure list have been [moved](/2016-17-potential-school-closures). 
 
 ---
 
