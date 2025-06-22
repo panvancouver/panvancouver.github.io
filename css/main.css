@@ -39,6 +39,13 @@ img {
     max-width: 100%;
 }
 
+img.hero {
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+}
+
 main {
     background-color: #fff;
     padding: 1ch 2ch;

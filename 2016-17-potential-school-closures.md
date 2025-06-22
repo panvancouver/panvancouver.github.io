@@ -1,5 +1,7 @@
 # 2016-17 VSB potential school closures
 
+<img class="hero" alt="Coffin and grave stones" src="/images/6746650_orig.jpeg" />
+
 **On Monday, October 3, 2016 the Vancouver School Board trustees voted to suspend the school closure procedure and rescind the motions moving the 11 schools to consultation.**
 
 This page is now for reference. The upcoming meeting dates are no longer relevant.

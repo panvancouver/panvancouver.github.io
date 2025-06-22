@@ -1,5 +1,7 @@
 # School Closures: What you need to know
 
+<img class="hero" alt="Coffin and grave stones" src="/images/6746650_orig.jpeg" />
+
 We are sharing our research and findings related to the school closure situation to help inform and support the advocacy of parents and community members.
 
 ## 2016-17 VSB Potential School Closures - Timeline with PAN Responses
@@ -52,6 +54,6 @@ This reference guide contains a brief summary of vital information related to th
 
 
 > Rather than shutter schools, residents argue, districts should reinvest in them. They point to full-service community schools, a reform model that combines rigorous academics with wraparound services for children and families, as promising alternatives.
-from Rachel . M. Cohen, "[The Devastating Impact of School Closures on Students and Communities](http://www.alternet.org/education/devastating-impact-school-closures-students-and-communities)" April 22, 2016
+> <cite>from Rachel . M. Cohen, "[The Devastating Impact of School Closures on Students and Communities](http://www.alternet.org/education/devastating-impact-school-closures-students-and-communities)" April 22, 2016</cite>
 
 [Research and Articles]()
