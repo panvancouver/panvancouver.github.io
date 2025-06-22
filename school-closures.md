@@ -54,6 +54,6 @@ This reference guide contains a brief summary of vital information related to th
 
 
 > Rather than shutter schools, residents argue, districts should reinvest in them. They point to full-service community schools, a reform model that combines rigorous academics with wraparound services for children and families, as promising alternatives.
-> <cite>from Rachel . M. Cohen, "[The Devastating Impact of School Closures on Students and Communities](http://www.alternet.org/education/devastating-impact-school-closures-students-and-communities)" April 22, 2016</cite>
+> <cite>Rachel . M. Cohen, "[The Devastating Impact of School Closures on Students and Communities](http://www.alternet.org/education/devastating-impact-school-closures-students-and-communities)" April 22, 2016</cite>
 
 [Research and Articles]()

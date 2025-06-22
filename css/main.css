@@ -67,6 +67,12 @@ main blockquote {
     line-height: 1.3;
 }
 
+main blockquote cite {
+    display: block;
+    font-size: 80%;
+    margin-top: 0.5ch;
+}
+
 header {
     font-size: 120%;
     padding: 1ch;
