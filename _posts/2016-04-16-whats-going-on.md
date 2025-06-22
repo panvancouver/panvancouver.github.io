@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What's Goin﻿g on this Week: April 18-24"
+title: "What's Going on this Week: April 18-24"
 date: 2016-04-16
 lead: "There is a lot of different stuff going on right now at the VSB which could use some parent/public input. Here are just the highlights for the week ahead."
 ---
