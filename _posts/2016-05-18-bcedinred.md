@@ -32,13 +32,13 @@ The 2016/17 BC budget indicates that we live in a province of relative prosperit
 **Supporting Resources**  
 **#BCEDINRED** -  
 * [https://panvancouver.github.io/bcedinred](/bcedinred)  
-* [https://facebc.wordpress.com/2016/04/10/bcedinred]()
-* [https://panvancouver.github.io]()   
-* [https://facebc.wordpress.com]()
+* [https://facebc.wordpress.com/2016/04/10/bcedinred](https://facebc.wordpress.com/2016/04/10/bcedinred)
+* [https://panvancouver.github.io](https://panvancouver.github.io)   
+* [https://facebc.wordpress.com](https://facebc.wordpress.com)
 * [PAN Vancouver@PAN_Vancouver](https://twitter.com/PAN_Vancouver)
 * [@FACE_BC](https://twitter.com/FACE_BC)
-* [www.facebook.com/PANVancouver]()
-* [www.facebook.com/FACEVancouver]()
+* [www.facebook.com/PANVancouver](www.facebook.com/PANVancouver)
+* [www.facebook.com/FACEVancouver](www.facebook.com/FACEVancouver)
 * [parentadvocacynetwork@gmail.com](mailto:parentadvocacynetwork@gmail.com)
  
 **About the Parent Advocacy Network**  

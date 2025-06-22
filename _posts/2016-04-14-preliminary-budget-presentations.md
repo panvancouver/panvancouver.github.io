@@ -7,7 +7,7 @@ lead: "Thank you to all the PACs, parents, advocates, MLAs and community members
 
 **Update** April 18: The locations for the 25th and 28th meetings have been changed to Secondary schools.
 
-**Update** April 22: The time of the 25th meeting has been changed to 7pm following DPAC's "[Celebration of Public Education](https://www.eventbrite.com/e/celebrate-public-education-tickets-24714348281)" event outside the school. **PAN is presenting 2nd**. [Wear RED and STAND UP for public education]().
+**Update** April 22: The time of the 25th meeting has been changed to 7pm following DPAC's "[Celebration of Public Education](https://www.eventbrite.com/e/celebrate-public-education-tickets-24714348281)" event outside the school. **PAN is presenting 2nd**. [Wear RED and STAND UP for public education](/2016/04/22/take-a-stand-for-ed).
 
 Thank you to all the PACs, parents, advocates, MLAs and community members who were able to make it to at least one of the three evenings of public consultation, April 12-14.
 * Here is [PAN's presentation](/downloads/160412_pan_presentation_to_cow_on_vsb_budget_proposals.pdf).
