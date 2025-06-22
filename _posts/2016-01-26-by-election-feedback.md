@@ -2,7 +2,7 @@
 layout: post
 title: "By-Election Candidate Feedback"
 date: 2016-01-26
-lead: ""
+lead: "By-Election Candidates answer public education questions"
 ---
 
 

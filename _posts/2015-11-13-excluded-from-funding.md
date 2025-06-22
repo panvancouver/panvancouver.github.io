@@ -2,7 +2,7 @@
 layout: post
 title: "Vancouver excluded from funding"
 date: 2015-11-13
-lead: ""
+lead: "Yesterday (November 12, 2015) the Minister of Education released how his department awarded more than $35 million worth of improvement projects to schools throughout the province, as part of the Province's Routine Capital Program."
 ---
 
 Yesterday (November 12, 2015) the Minister of Education released how his department awarded more than $35 million worth of improvement projects to schools throughout the province, as part of the [Province's Routine Capital Program](https://news.gov.bc.ca/releases/2015EDUC0075-001895).
