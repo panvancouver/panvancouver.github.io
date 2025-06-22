@@ -1,0 +1,19 @@
+---
+layout: post
+title: "What's Goin﻿g on this Week: April 18-24"
+date: 2016-04-16
+lead: "There is a lot of different stuff going on right now at the VSB which could use some parent/public input. Here are just the highlights for the week ahead."
+---
+
+There is a lot of different stuff going on right now at the VSB which could use some parent/public input. Here are just the highlights for the week ahead. If you are unable to attend any, please read the final budget proposal when it comes out Tuesday evening and complete the surveys on the strategic plan and long range facilities plan.
+
+**Monday, April 18, 7pm** - [VSB Board Meeting](http://www.vsb.bc.ca/meetings/agendas/meeting-agendas-current?quicktabs_10=10#quicktabs-10). A recap of the committee meetings with motions coming from those plus one introduced by trustee Fraser Ballantyne on "Talk with our Kids about Money" day.
+
+**Tuesday, April 19, 5pm** - [VSB Committee III/V Meeting](https://calendar.google.com/calendar/render?eid=azVnY2VnOXY4bmx0a3RuMGpxbDdhMWU1ZWcgcGFyZW50YWR2b2NhY3luZXR3b3JrQG0&ctz=America/Vancouver&sf=true&output=xml#eventpage_6). Senior staff will introduce their final budget proposals for 2016/17. The public is invited to attend as observers. We will have a chance to speak to it on Monday, April 25, 5pm (see previous blog).
+
+**Wednesday, April 20, 5pm** - [VSB Committee II: Planning & Facilities Meeting](https://calendar.google.com/calendar/render?eid=dTdnOGs5OWxrc3N2MWJiZHFxdGFpbmVpaDggcGFyZW50YWR2b2NhY3luZXR3b3JrQG0&ctz=America/Vancouver&sf=true&output=xml#eventpage_6).  Topics include updates on the LRFP consultations and the Capital Plan. The public is invited to attend as observers.
+
+**Thursday, April 21, 7pm** - [VSB Strategic Plan Workshop at Templeton Secondary](http://www.vsb.bc.ca/vsb2021). This is the only workshop planned for phase II. If you are unable to attend the workshop, please fill out a survey. There are two: one for [individuals](http://fluidsurveys.com/surveys/dfergusson/vsb2021-phase-2-survey/) and one for [groups](http://www.vsb.bc.ca/sites/default/files/publications/VSB-Phase2-discussionguides-20160406-readerenabled.pdf), to be completed by May 6. The strategic plan is what we want to happen inside the schools for the next 5 years. Last week [PAN presented to Committee III](/2016/07/04/advocating-for-the-arts) on how important it is to include the Arts.
+
+**Sunday, April 24, 1pm** - [Long Range Facilities Plan (LRFP) Workshop](https://calendar.google.com/calendar/render?eid=bHAzODRkNHRtaDk1MTNyZjg0ajFwOXV2anMgcGFyZW50YWR2b2NhY3luZXR3b3JrQG0&ctz=America/Vancouver&sf=true&output=xml#eventpage_6) [and Open House at River District](https://calendar.google.com/calendar/render?eid=YTUybTM2OGhqb3U1Z3ZqamU1ZHYxZGhycHMgcGFyZW50YWR2b2NhY3luZXR3b3JrQG0&ctz=America/Vancouver&sf=true&output=xml#eventpage_6). If you haven't attended one, we strongly recommend you do. They have a lot of information and staff available to question, and they really want to get public input on what criteria to use when determining which schools to close, use for temporary accommodation, amalgamate, etc. By the end of this June, the senior staff will have used this criteria to present the trustees with a list of schools they recommend for closure for September 2017 (the process takes that long). If you are unable to attend this one, the last one is on [Saturday April 30, 1pm at the World Arts Centre, SFU downtown campus](https://calendar.google.com/calendar/render?eid=ODhlZzdtbHI3MnZ1ZHY0ZG1qNmxyaG9kYW8gcGFyZW50YWR2b2NhY3luZXR3b3JrQG0&ctz=America/Vancouver&sf=true&output=xml#eventpage_6). There is also a [survey](http://surveys1.fluidsurveys.com/s/VSB/futureofschools/?p=0&k=&h=2343a2f9ae857db6c38708bf36b0b9ce&s=eyJwYWdlcGF0aCI6IFswXSwgInJhbmRvbV9zZWVkIjogIjMyNDg4Y2E0NGRiZWYyNWNmNzI5ZmExN2M5NjFkYmIxNDdjZTIxN2UifQ%3D%3D&n=.&l=en) you can fill out.
+
