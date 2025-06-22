@@ -5,7 +5,7 @@ date: 2016-08-26
 lead: "While we appreciate the correspondence, it contains many familiar government talking points that have been analyzed and refuted."
 ---
 
-On May 10, 2016, PAN sent a [statement signed by 735 community members]() to the Minister of Education regarding the Vancouver School Board's budget situation.
+On May 10, 2016, PAN sent a [statement signed by 735 community members](/2016/05/10/vsb-budget) to the Minister of Education regarding the Vancouver School Board's budget situation.
 
 On July 25, 2016 PAN received the [response from the Minister](/downloads/188180_pan_outgoing.pdf).
 
