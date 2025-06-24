@@ -29,7 +29,7 @@ This reference guide contains a brief summary of vital information related to th
 * [Seismic Upgrading & School Closure]()
 * [Declining Enrolment & Population Distribution]()
 * [Why Close Schools]()
-* [Alternatives to Closure]()
+* [Alternatives to Closure](/alternatives-to-school-closure)
 * [Budget Shortfall](/cause-of-budget-shortfall)
 * [Conclusion](/conclusion)
 
