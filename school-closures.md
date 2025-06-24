@@ -31,7 +31,7 @@ This reference guide contains a brief summary of vital information related to th
 * [Why Close Schools]()
 * [Alternatives to Closure]()
 * [Budget Shortfall]()
-* [Conclusion]()
+* [Conclusion](/conclusion)
 
 ---
 
