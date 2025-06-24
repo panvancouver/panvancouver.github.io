@@ -23,7 +23,7 @@ The details of the 2016-17 potential school closure list have been [moved](/2016
 
 This reference guide contains a brief summary of vital information related to the proposal to close the 12 schools, from the history and background to clear explanations of the VSB’s current budget situation to definitions of terms and jargon. While we finalize this document, we have included much of its contents in the following pages and we encourage all parents to read and understand the issues currently facing public education in Vancouver
 
-* [Introduction]()
+* [Introduction](/reference-guide-introduction)
 * [Capacity Matters: Definitions](/capacity-matters-definitions)
 * [Capacity Matters: Impacts](/capacity-matters-impacts)
 * [Seismic Upgrading & School Closure](/seismic-upgrading)
