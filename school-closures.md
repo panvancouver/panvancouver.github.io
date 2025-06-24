@@ -28,7 +28,7 @@ This reference guide contains a brief summary of vital information related to th
 * [Capacity Matters: Impacts]()
 * [Seismic Upgrading & School Closure]()
 * [Declining Enrolment & Population Distribution]()
-* [Why Close Schools]()
+* [Why Close Schools](/why-close-schools)
 * [Alternatives to Closure](/alternatives-to-school-closure)
 * [Budget Shortfall](/cause-of-budget-shortfall)
 * [Conclusion](/conclusion)
