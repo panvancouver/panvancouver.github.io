@@ -1,0 +1,47 @@
+# Seismic upgrades and school closures: Are they related?
+
+The provincial government is using the safety of children as a bargaining tool to force the VSB to close schools by withholding funds for seismic upgrades until the VSB complies with the government’s arbitrary 95% capacity utilization target. 
+
+
+## Background
+
+Although much of BC lies in an earthquake zone, many older schools are at high-risk of collapse in a seismic (earthquake) event. In 2004, the provincial government promised to ensure all at-risk schools in BC schools meet seismic safety standards by 2019. This commitment was called the Seismic Mitigation Program (SMP). According to Ministry reports the SMP identified 342 schools around BC that would need to be remediated through upgrade or replacement. In 2015, the government announced it would not meet the 2019 target for upgrades: the completion target for the remaining at-risk schools was extended to 2025 for BC, and to 2030 for schools in Vancouver. [As of April 2016, 128 schools have still not even begun the seismic mitigation process](http://www2.gov.bc.ca/assets/gov/education/administration/resource-management/capital-planning/seismic-mitigation/progress_report.pdf).
+
+Costs to seismically upgrade schools have been higher than originally anticipated. In 2004, the government estimated the [total cost would be $1.5 billion](https://www.bcauditor.com/sites/default/files/publications/files/2008_Report-Planning_for_School_Seismic_Safety.pdf.). To date, the [government has already spent $2.2 billion](http://www.vancouversun.com/news/Seismic+upgrading+schools+pushed+back+years+with+video/10865738/story.html).
+
+[In Vancouver, 69 schools have not completed seismic mitigation; 40 of them have not even begun the first step of the mitigation process](http://engage.vsb.bc.ca/faq/faq-seismic-mitigation-program). It should be noted, that many of the "supported" schools in Vancouver (at the project planning or approval stage) have been [awaiting seismic mitigation for over a decade](http://www.vancouversun.com/news/Funding+delays+feasibility+studies+political+squabbles+delay+school+seismic+upgrades/10868675/story.html). Closing schools is a convenient way for the provincial government to reduce the number of schools that need seismic upgrading in Vancouver to minimize further expense.
+
+## Upgrades, replacements, and the Memorandum of Understanding (MOU)
+
+In 2005, the government stipulated that due to the age and poor quality of many of the schools at risk throughout the province and the expense required to bring and maintain these buildings to acceptable health and safety standards, replacement schools should be built instead of upgrading existing structures, if the cost of seismically upgrading was more than 70% of the cost of building a new school.
+
+The costs of maintaining and upgrading aging schools are evident in the fact that [Vancouver schools currently have deferred maintenance costs of more than $700 million](http://engage.vsb.bc.ca/wp-content/uploads/2016/05/lrfp-final-report-may-2016-board-approved2.pdf). The average age of school facilities in Vancouver is 73 years.
+
+In 2011, [a comparative study of Vancouver schools](http://www.vsb.bc.ca/sites/default/files/13Sept18_op_commII_item2%20-%20revised.pdf) by Coriolis Corp. showed that replacing older facilities, rather than upgrading them, would actually save the provincial government over $200 million (not adjusted for today’s dollars) over a 40-year cycle. In addition, new schools are more likely to be usable after a seismic event, and their construction does not require temporary accommodation of students during the project if the replacement school can be built elsewhere on the same site. Of further benefit, new schools can be designed to better meet 21st century learning needs. All of these considerations demonstrate the overall value to taxpayers of new, seismically sound schools.
+
+In August 2014, however, the provincial government imposed new restrictions regarding the SMP in Vancouver. These are outlined in a [Memorandum of Understanding](https://www.vsb.bc.ca/sites/default/files/publications/Signed%20MOU%20re%20VBE%20Seismic%20Mitigation%20Project%20Office.pdf) (MOU) drawn up by the Minister of Education and signed by the then VSB chair. 
+
+The MOU stipulates that
+* the VSB will develop a Long Range Facilities Plan (LRFP) to outline how the District would achieve an average capacity utilization of 95% through the Seismic Mitigation Program by 2030; [[Jen’s note: embed link to earlier section where we discuss 95%?]]
+* the province will only fund the lowest cost option (usually an upgrade rather than a replacement), even if the cost of replacement is less than the cost of an upgrade over a 40-year maintenance cycle;
+* temporary accommodation will not be funded but must be found within existing surplus capacity within the District.
+
+Since further seismic funding would not be forthcoming unless the MOU was signed, the VSB chair had little choice but to agree. To say, as the Minister has in the media, that this ultimatum was “agreed upon” or “identified by trustees themselves” indicates a balance of power that does not exist in the VSB–government relationship: the government controls all funding decisions.
+
+## Implications of the MOU
+
+The MOU’s three conditions have serious implications for school closures:
+* With “lowest cost option” upgrading, more schools will be upgraded rather than replaced. Upgrading may stabilize buildings to allow for evacuation, but will not ensure they’ll be usable after a major earthquake. Considering that replacement schools will structurally withstand a seismic event without the need for rebuilding, this approach seems particularly short-sighted. 
+* Schools with viable student populations on the East Side that would previously have been considered candidates for replacement by more appropriately sized schools (called “right-sizing”) under the 70% rule, are now slated for closure even though they may have the same number of enrolled children as “full” schools that are smaller.
+* Even if a replacement school is the lowest-cost option, the government is unwilling to approve the seismic mitigation of any school that is not already close to operating at 95% capacity. This means that a school like [John Oliver Secondary, which has been on the project list for replacement since 2005 with a completed project plan, is no longer considered a candidate for a replacement](http://www.vancouversun.com/news/Seismic+upgrading+schools+pushed+back+years+with+video/10865738/story.html) school because the government is looking at percentages rather than the fact that 1,000 students are housed in an unsafe building.
+* The BC government has made it clear that it will not fund portable classrooms (called “swing spaces”) for children to attend while their schools are under construction, which is a further pressure on the VSB to empty and close schools so they can be used as temporary swing spaces. This would be the most expedient way to move projects through fast enough to meet the new 2030 seismic mitigation deadline. We believe it is unacceptable to evict students from their catchment school to provide other students with temporary accommodation that could be achieved through alternative means.
+
+In other words, the government’s 95% capacity utilization target and bottom-dollar approach to seismic mitigation is leaving the VSB with no option other than to adhere to the 95% capacity and close lower-utilized schools that are mostly in areas whose populations are most in need of community stability and family supports that schools (with capacity that allows for childcare and early childhood education programs) are best positioned to provide. 
+
+## The Long Range Facilities Plan (LRFP)
+
+The MOU discussed above required the VSB to develop a Long Range Facilities Plan (LRFP) to outline how the District would achieve an average capacity utilization of 95% through the SMP by 2030. [The LRFP was developed by VSB staff and approved by the Board in May 2016](http://engage.vsb.bc.ca/wp-content/uploads/2016/05/lrfp-final-report-may-2016-board-approved2.pdf). This plan outlines the closure of 21 schools between 2016 and 2030 in order to build new schools and also reach the 95% capacity utilization target. [see our discussion on of 95% in the [Capacity Matters section](/capacity-matters-definitions)]
+
+Given the 14 year timeframe, it is conceivable that the VSB could adapt the plan to better reflect changing demographic patterns and community needs and develop creative proposals for replacement schools rather than closures. However the 2016-17 budget shortfall of $21.8 million and the severity of cuts required to balance the budget has prompted the [VSB to recommend the expedited closure of 12 schools](http://engage.vsb.bc.ca./) to begin as early as June 2017, effectively eliminating this flexibility. [Although this budget was rejected by the Board, the superintendent of schools is required by the School Act to implement the cuts](http://www.vsb.bc.ca/sites/default/files/financials/June30th-Budget-Update-2016-2017.pdf).
+
+[​Declining Enrollment & Population Distribution](/declining-enrollment)
