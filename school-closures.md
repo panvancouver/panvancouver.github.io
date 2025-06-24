@@ -30,7 +30,7 @@ This reference guide contains a brief summary of vital information related to th
 * [Declining Enrolment & Population Distribution]()
 * [Why Close Schools]()
 * [Alternatives to Closure]()
-* [Budget Shortfall]()
+* [Budget Shortfall](/cause-of-budget-shortfall)
 * [Conclusion](/conclusion)
 
 ---

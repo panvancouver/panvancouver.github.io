@@ -1,4 +1,4 @@
-Conclusion
+# Conclusion
 
 PAN is not suggesting that school facilities should never be adjusted to meet changing demographics. They should. However, underfunding, poor legislation, and austerity constraints around seismic upgrading have created a situation in Vancouver in which the school board is being forced to make poor, short-sighted decisions that will seriously compromise its ability to provide equitable access to quality public education for all children. Unreasonable demands by the provincial government are preventing the VSB from pursuing alternative ways of reducing surplus capacity that not only attend to the diverse educational needs of all learners, but preserve the progressive legacy of neighbourhood schooling for current and future generations.
  
