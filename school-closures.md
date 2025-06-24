@@ -25,7 +25,7 @@ This reference guide contains a brief summary of vital information related to th
 
 * [Introduction]()
 * [Capacity Matters: Definitions](/capacity-matters-definitions)
-* [Capacity Matters: Impacts]()
+* [Capacity Matters: Impacts](/capacity-matters-impacts)
 * [Seismic Upgrading & School Closure](/seismic-upgrading)
 * [Declining Enrolment & Population Distribution](/declining-enrollment)
 * [Why Close Schools](/why-close-schools)
