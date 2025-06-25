@@ -23,8 +23,8 @@
 ### 2017
 * December 5, 2017 - [Grassroots Parent Groups Advocate Together for Public Education](/downloads/pan_groups_together_meet_govt_dec_5.pdf) (on December 1st 6 parent advocacy groups including PAN met with John Horgan, Premier of BC, and Rob Fleming, Minister of Education, and presented recommendations for public education)
 * October 6, 2017 - [PAN presentation to Select Standing Committee on Finance and Government Services re: Budget 2018](/downloads/20171006_scc_for_budget_2018_19_f.pdf)
-* September 25, 2017 - [PAN Requests Gov't Action to Attract Teachers for SCC Implementation](/downloads/170925_pan_statement_to_govt_re_scc_implementation.pdf) (letter from PAN) ​UPDATE: October 24, 2017 - [Ministry of Education Response]()
-* [​Ministry of Education Response](/downloads/195175_pan_outgoing.pdf) to our July 26, 2017 letter Pressing Concerns within Vancouver School District #39 
+* September 25, 2017 - [PAN Requests Gov't Action to Attract Teachers for SCC Implementation](/downloads/170925_pan_statement_to_govt_re_scc_implementation.pdf) (letter from PAN) ​
+* September 11, 2017 - UPDATE: [​Ministry of Education Response](/downloads/195175_pan_outgoing.pdf) to our July 26, 2017 letter Pressing Concerns within Vancouver School District #39 
 * ​July 26, 2017 - [Pressing Concerns within Vancouver School District #39](/downloads/20170726_pan_letter_to_moe_re_vsb.pdf) (letter by PAN to the new Minister of Education, Rob Fleming)
 * ​June 12, 2017 - [Vancouver School Board - request to maintain consistency prior to trustee by-election](/downloads/20170612_pan_letter_to_govt_re_vsb_official_trustee.pdf) (letter by PAN to provincial political party leaders)
 * February 28, 2017 - ["Status Quo" Budget Not Acceptable - Government Does Bare Minimum for Public Education](/downloads/170228_pan_response_to_budget_media_release_february_28_2017.pdf)
