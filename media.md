@@ -94,9 +94,9 @@ Responses to our June 20, 2016 "for whom will the bell toll next" event on schoo
 * CBC Early Edition with Steven Quinn: [Discussion/reaction to  VSB's preliminary closure list, closure procedure and the 95% capacity requirement with 2 Vancouver parents including PAN's Kim Werker](http://www.cbc.ca/news/canada/british-columbia/programs/theearlyedition/june-21-2016-1.3645465?platform=hootsuite) (1.14 -1:50)
 
 [​​​​May 12, 2016](https://youtu.be/1UrQyqbxYZQ): MLA David Eby's statement to the Legislative Assembly  
-[​April 25, 2016](): Tupper public meeting media coverage  
-[​April 12-14, 2016](): Presentations to the VSB Committee of the Whole from PAN and others. Will be updated as we receive them.  
-[​April 8, 2016](): Georgia Straight article on the PAN push for renewed arts education support. Article [here](http://www.straight.com/arts/674731/parent-advocacy-network-public-education-will-plead-vsb-trustees-renewed-arts-education). Read our original post [here]() and our presentation [here]().  
-[​February 24: Presentation at Parent Panel]()  
-February 24 News Release: [Parent Panel]()  
-\> [Global News Story]: Andrea at the PAN/PENS public panel  
+[​April 25, 2016](/2016/04/27/bc-ed-in-red): Tupper public meeting media coverage  
+[​April 12-14, 2016](/2016/04/14/preliminary-budget-presentations): Presentations to the VSB Committee of the Whole from PAN and others. Will be updated as we receive them.  
+[​April 8, 2016](/2016/04/07/advocating-for-the-arts): Georgia Straight article on the PAN push for renewed arts education support. Article [here](http://www.straight.com/arts/674731/parent-advocacy-network-public-education-will-plead-vsb-trustees-renewed-arts-education). Read our original post [here](/2016/04/07/advocating-for-the-arts) and our presentation [here](/downloads/160413_the_gallows_speech.pdf).  
+[​February 24: Presentation at Parent Panel](/downloads/pan_panel_presentation_february_24_2016.pdf)  
+February 24 News Release: [Parent Panel](/downloads/pan_news_release_february_24_2016.pdf)  
+\> [Global News Story](http://globalnews.ca/video/2539396/parents-meeting-on-future-of-education-held-in-vancouver): Andrea at the PAN/PENS public panel  
