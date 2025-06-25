@@ -57,6 +57,7 @@
     * Mid December - Districts to submit December Quarterly Report
     * December 31 - Statement of Financial Information (SOFI) Annual Report due from previous year
 ​
+
 ## K-12 Public Education Funding Review
 * Ministry announcement on March 1, 2018.
 * Ministry website information.
