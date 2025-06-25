@@ -6,6 +6,15 @@
 * [#BuildSchoolsRight](/build-schools-right)
 * [Operation Funding](/operation-funding)
 * [School Closures](/school-closures)
+    * [Introduction](/reference-guide-introduction)
+    * [Capacity Matters: Definitions](/capacity-matters-definitions)
+    * [Capacity Matters: Impacts](/capacity-matters-impacts)
+    * [Seismic Upgrading & School Closure](/seismic-upgrading)
+    * [Declining Enrolment & Population Distribution](/declining-enrollment)
+    * [Why Close Schools](/why-close-schools)
+    * [Alternatives to Closure](/alternatives-to-school-closure)
+    * [Budget Shortfall](/cause-of-budget-shortfall)
+    * [Conclusion](/conclusion)
 * [2016-17 Potential School Closures](/2016-17-potential-school-closures)
 
 
