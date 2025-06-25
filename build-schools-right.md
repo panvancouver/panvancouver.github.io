@@ -1,11 +1,12 @@
 # Build Schools Right
 
-<img alt="School architectural plans" class="hero" src="/images/1706786274.png"/>
+![School architectural plans](/images/1706786274.png)
 
-School Design Policy. Student success requires the
-right school facilities.
-
-`#BuildSchoolsRight`
+<div class="build_schools_right">
+    <div>It&apos;s time to update BC&apos;s School Design policy.</div>
+    <div>Student success requires the right school facilities.</div>
+    <div class="hashtag">#BuildSchoolsRight</div>
+</div>
 
 **We want you to use our quick and easy email tool (below) to tell BC’s government leaders that it’s time to update the school design policy.**
 
@@ -15,12 +16,9 @@ This is due to the Ministry of Education’s policy (the “Area Standards”) t
 
 [The Ministry of Education has responded](https://www.vsb.bc.ca/District/Board-of-Education/Advocacy/Advocacy-Correspondence/Documents/sbfile/181231/20181130_MinisterAreaStandards.pdf) to concerns about this policy by stating that it plans to review the policy but in the meantime districts have “flexibility” to design schools as long as they stay within budget. This is not satisfactory: How can an art room, music room, quiet space, or auditorium be built if the policy that decides the budget does not allow for it to be included? What other necessary spaces, allowed under the policy, would have to be sacrificed instead?
 
-**Please take a moment** to use our email tool to write to your MLA, Minister of Education Jennifer Whiteside, Premier John Horgan, BC Liberal interim leader Shirley Bond, and BC Green leader Sonia Furstenau in support of prioritizing the Ministry’s review of its Area Standards policy and ensuring that review is consultative and addresses the concerns raised. It is important not only to build safe schools; we must build the right schools for student success.
-
-**It’s quick and easy:** On a device that allows you to send email, just fill in the form below and click “Create Email.” Your email will open; all you have to do is press “Send.” The email will go to the politicians listed above and PAN (so that we can keep count of the emails being sent).
 
 <div class="email">
-<p>The Ministry of Education’s Area Standards policy is the document that sets out how schools are to be built in BC and determines the amount of money that will be budgeted for construction of a school. The policy details how much space is allowed to be used for given purposes, such as classrooms, administration, and so on. Of utmost concern is what this policy does NOT allocate space, and therefore budget, for: art rooms, music rooms, adequate hallway space, washrooms, staff rooms, sufficient gymnasium space, quiet spaces, and other necessities for successful inclusive learning. Furthermore, BC’s policy allows for less space per student than other provinces with similar policies. The Parent Advocacy Network has detailed the problems with the policy here: <a href="http://www.panvancouver.ca/news/pan-calls-for-an-area-standards-review">http://www.panvancouver.ca/news/pan-calls-for-an-area-standards-review</a></p>
+<p>The Ministry of Education’s Area Standards policy is the document that sets out how schools are to be built in BC and determines the amount of money that will be budgeted for construction of a school. The policy details how much space is allowed to be used for given purposes, such as classrooms, administration, and so on. Of utmost concern is what this policy does NOT allocate space, and therefore budget, for: art rooms, music rooms, adequate hallway space, washrooms, staff rooms, sufficient gymnasium space, quiet spaces, and other necessities for successful inclusive learning. Furthermore, BC’s policy allows for less space per student than other provinces with similar policies. The Parent Advocacy Network has detailed the problems with the policy here: <a href="https://panvancouver.github.io/2018/10/15/area-standards">https://panvancouver.github.io/2018/10/15/area-standards</a></p>
 
 <p>The result is that new schools are on average 30% smaller than the schools they are replacing and lack crucial spaces for students to engage in the type of inclusive, creative, and individual learning that the new curriculum emphasizes.</p>
 

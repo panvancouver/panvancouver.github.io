@@ -160,3 +160,33 @@ a.headline {
    width: 100%;
    height: 100%;
 }
+
+main .email {
+    padding: 1px 2ch;
+    background-color: #eee;
+    border-radius: 1ch;
+    font-size: 110%;
+    line-height: 1.3;
+    margin: 2ch;
+}
+
+.overlay {
+    position: relative;
+}
+
+.build_schools_right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+
+    font-size: 200%;
+    font-weight: bold;
+    text-align: center;
+    gap: 0.5ch;
+}
+
+.hashtag {
+    color: #af2d2d;
+}
