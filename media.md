@@ -100,3 +100,33 @@ Responses to our June 20, 2016 "for whom will the bell toll next" event on schoo
 [​February 24: Presentation at Parent Panel](/downloads/pan_panel_presentation_february_24_2016.pdf)  
 February 24 News Release: [Parent Panel](/downloads/pan_news_release_february_24_2016.pdf)  
 \> [Global News Story](http://globalnews.ca/video/2539396/parents-meeting-on-future-of-education-held-in-vancouver): Andrea at the PAN/PENS public panel  
+* [Andrea on Global: Vancouver School Board Facing Shortfall](http://globalnews.ca/news/2534249/vancouver-school-board-facing-a-projected-24-4m-budget-shortfall/?sf21378332=1)
+* [CBC Radio program On The Coast interview with Jen Stewart](http://www.cbc.ca/player/play/2684217234) (2:36-11:00)
+* [Roundhouse Radio with Kirk LaPointe interview with Andrea](http://cirh.streamon.fm/listen-pl-1522)
+* [Vancouver Sun article](http://www.vancouversun.com/news/shortfall+vancouver+school+board+fearing+cuts+classrooms/11734700/story.html)
+
+![I stand with the standing committee](/images/7146377_orig.png)
+
+January 26, 2016 - Postcard Delivery - [News Release](/downloads/pan_news_release_january_26_2016.pdf)
+* [CTV](http://bc.ctvnews.ca/video?clipId=791309&binId=1.1184759&playlistPageNum=1) news at 6
+* [Global News](http://globalnews.ca/video/2478901/calls-for-funding-as-school-enrollment-grows-in-b-c/)
+* [Global News at noon](http://globalnews.ca/video/2479723/most-of-b-c-dealing-with-spike-in-public-school-enrolment/)
+* [CTV at the event](http://bc.ctvnews.ca/video?clipId=791309&binId=1.1184759&playlistPageNum=1) Opens with footage behind news anchor of PAN at Canada Place and more (at 9:36-10:45 approximately).
+* [Global News](http://globalnews.ca/news/2479326/bc-public-school-enrolment-up/)
+* [CKNW](http://www.cknw.com/2016/01/26/parents-group-want-province-to-provide-more-educational-funding/)
+* [AM730](http://www.am730.ca/syn/112/142264/parents-group-want-province-to-provide-more-educational-funding)
+* [BC CTV News](http://bc.ctvnews.ca/vsb-greenlights-plan-that-could-lead-to-13-school-closures-1.2752632)
+* [CKNW re: VSB vote](http://www.cknw.com/2016/01/25/vsb-votes-on-plan-that-could-mean-more-school-closures/) 
+* [News 1130](http://www.news1130.com/2016/01/26/parents-group-public-school-funding/) 
+* [Our City with Kirk LaPointe](http://cirh.streamon.fm/listen-pl-1115) - School Closures and Seismic Upgrades (Jan 28, 2016 at the 7-minute mark)
+
+Lead-up to January 26​
+* [CBC Podcast](http://podcast.cbc.ca/mp3/podcasts/bcalmanac_20160126_93563.mp3) (BC Almanac), feat. Jennifer Stewart, January 26 2016 (also includes statements from others in favour of school closures)
+* [Global News](http://globalnews.ca/video/2478901/calls-for-funding-as-school-enrollment-grows-in-b-c/), calls for funding as enrollment grows
+* [Global News](http://globalnews.ca/video/2479723/most-of-b-c-dealing-with-spike-in-public-school-enrolment/), enrollment is up in BC, what are parents demanding?
+* [​Simi Sara Show](https://soundcloud.com/cknw/parents-speak-out-about-seismic-upgrades-to-bc-schools-the-simi-sara-show-fri-jan-22), PAN member and Charles Dickens Elementary PAC Chair Andrea Sinclair, January 22 2016 discussing seismic upgrades and the call for school closures.
+
+### January 25, 2016
+
+**Dr. Joy Alexander, Registered Psychologist, Trustee**  
+[Statement at the January 25, 2016 Board Meeting](/downloads/trustee_joy_alexander_statement_jan_25_2016.pdf)
