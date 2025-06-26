@@ -6,6 +6,13 @@ title:  "PAN Vancouver Home"
 
 > **All children** have a right to high quality public education, accessible in their own neighbourhoods, in educationally appropriate & seismically safe buildings with the resources & staff necessary to meet their learning needs.
 
+
+<h2 class="hashtag">#BuildSchoolsRight</h2>
+
+Use our quick and easy [email tool](/build-schools-right) to tell BC’s government leaders that it’s time to update the school design policy (MLA list updated November 2020).
+
+![It's time to update BC's School Design policy.](/images/buildschoolsright-tw_orig.jpg)
+
 ## What is PAN?
 
 The Parent Advocacy Network for Public Education (PAN) is a non-partisan grassroots collective of parents and community members who share a commitment to public education. We are working to address the chronic underfunding and devaluing of public education in Vancouver and across British Columbia by creating a strong network of parents who support one another in advocacy. [More about PAN](/about).
@@ -59,3 +66,48 @@ The Parent Advocacy Network for Public Education (PAN) is a non-partisan grassro
 * November 20  – [Trans Day of Visibility](https://pflag.org/blog/transgender-day-remembrance-2021)
 * Fourth week of November – [International Restorative Justice Week](https://www.crjc.ca/national-symposium)
 * December 3 – [International Day of Persons with Disabilities](https://www.un.org/en/observances/day-of-persons-with-disabilities)
+
+
+## PAN Action: Statements, Media
+
+[Contact a PAN media representative](mailto:parentadvocacynetwork@gmail.com)
+
+\>ICYMI  
+February 6, 2017​ - [presentation by Maggie Milne Martens, PAN, at 'BC Public Education: Keeping the Covenant with Future Generations?' forum hosted by SFU's Your Education Matters (YEM)](https://youtu.be/iNgSErhp1Sw)
+
+\>June 2020  
+June 12, 2020​ - [Submission to the Select Standing Committee on Finance & Government Services for Budget 2021](/downloads/pan_sscgf_2020_complete_package_f.pdf)
+
+\>June 2019  
+June 21, 2019​ - [Submission to the Select Standing Committee on Finance & Government Services for Budget 2020](https://www.leg.bc.ca/content/CommitteeDocuments/41st-parliament/4th-session/fgs/submissions/1031-09305.pdf)  
+[Committee Recommendations](https://www.leg.bc.ca/content/CommitteeDocuments/41st-parliament/4th-session/fgs/reports/FGS_41-2-2_Budget-2020-Consultation-Report_2019-08-07.pdf) (education starts on page 55)
+
+[More news](/news)
+
+[More media](/media)
+
+## Take Action!
+* [Check out our #bcedinred campaign](/bcedinred) to bring awareness and encourage action to stop the underfunding of BC's public schools
+* Be involved. Parents, ensure your PAC, DPAC, and district are talking about BCED issues that you value and advocating as necessary. Share on social media. Talk to your MLAs.
+
+## Learn more
+
+[Ministry District Operating Grants](/operation-funding)
+* K-12 Public Education Funding Review
+* In March, the Ministry of Education (MoE) announced district [Operating Grants](https://www2.gov.bc.ca/gov/content/education-training/k-12/administration/resource-management/k-12-funding-and-allocation/operating-grants/k12funding-21-22) for 2021/22.
+Seismic, Capital & School Closures
+* [​School Closures](/school-closures)
+* [Seismic Safety](/2016/10/20/seismic-upgrades)
+* PAN's [Brief to the MoE Calling for an Area Standards Review](/2018-10-15-area-standards) (October 2018)​
+    * PAN's [Area Standards Fact Sheet](/downloads/areastandards1pager_v3.pdf)
+    * BCTF's [Motion of Support](/downloads/bctf_to_pan_re_bc_area_standards_april_1_2019.pdf) of PAN's Area Standard recommendations
+* Long Range Facilities Plans
+    * Ministry of Education Guidelines ([2017](https://www2.gov.bc.ca/assets/gov/education/administration/resource-management/capital-planning/appendix-c-lrfp-guideline-2019-20.pdf)) ([2019](https://www.vsb.bc.ca/District/Planning_and_Facilities/Long_Range_Facilities_Plan/Documents/sbfile/19_04Apr12_Revised%20LRFP%20Guidelines.pdf))
+    * [Vancouver](https://www.vsb.bc.ca/District/Planning_and_Facilities/Long_Range_Facilities_Plan/Pages/default.aspx)  (draft)
+    * [​Richmond](https://pd.sd38.bc.ca/long-range-facilities-plan)  (draft)
+Advocacy Specific
+* [Arts Advocacy](/2016/04/07/advocating-for-the-arts)
+* [Gifted Education Advocacy](/2016/04/07/gifted-education)
+* [Special Needs / Complex Learners Fact Sheet](/downloads/special_needs__complex_learners_fact_sheet.pdf)
+
+[More resources](/resources)
