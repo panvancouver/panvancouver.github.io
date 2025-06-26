@@ -98,6 +98,16 @@ header nav ul a {
     color: #fff;
 }
 
+
+main nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1ch;
+    list-style-type: none; 
+    padding: 0;
+}
+
 @media print  {
   header {
     display: none !important;
@@ -191,3 +201,4 @@ main .email {
 .hashtag {
     color: #af2d2d;
 }
+

@@ -4,6 +4,16 @@ title:  "PAN Vancouver Home"
 
 <img class="pan_hero" alt="Parent Advocacy Network for Public Education" src="/images/pan-for-pe.png"/>
 
+<nav>
+<ul>
+<li><a href="#what-is-pan">What is PAN?</a></li>
+<li><a href="#important-dates-for-bc-ed">Important Dates for BC Ed</a></li>
+<li><a href="#pan-action-statements-media">PAN Action: Statements, Media</a></li>
+<li><a href="#take-action">Take Action!</a></li>
+<li><a href="#learn-more">Learn more</a></li>
+</ul>
+</nav>
+
 > **All children** have a right to high quality public education, accessible in their own neighbourhoods, in educationally appropriate & seismically safe buildings with the resources & staff necessary to meet their learning needs.
 
 
@@ -20,7 +30,7 @@ The Parent Advocacy Network for Public Education (PAN) is a non-partisan grassro
 [![A proud member of the BC poverty reduction coalition](/images/member-website-button_orig.png)](http://bcpovertyreduction.ca/)
 [![Proud member of first call BC child and youth advocacy coalition](/images/first-call-logo-member_orig.png)](https://firstcallbc.org/)
 
-## Important Dates for BCEd
+## Important Dates for BC Ed
 
 * January 15 – [Black Shirt Day](https://news.gov.bc.ca/releases/2021AG0002-000051)
 * ​January 24 – [International Day of Education](https://www.pearsoncanadaschool.com/index.cfm?locator=PS3d4h)
