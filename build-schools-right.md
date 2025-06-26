@@ -1,12 +1,7 @@
 # Build Schools Right
 
-![School architectural plans](/images/1706786274.png)
-
-<div class="build_schools_right">
-    <div>It&apos;s time to update BC&apos;s School Design policy.</div>
-    <div>Student success requires the right school facilities.</div>
-    <div class="hashtag">#BuildSchoolsRight</div>
-</div>
+![It's time to update BC's School Design policy. Student success requires the right school facilities.
+](/images/buildschoolsright-tw_orig.jpg)
 
 **We want you to use our quick and easy email tool (below) to tell BC’s government leaders that it’s time to update the school design policy.**
 
