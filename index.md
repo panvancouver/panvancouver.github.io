@@ -98,7 +98,7 @@ June 21, 2019​ - [Submission to the Select Standing Committee on Finance & Gov
 Seismic, Capital & School Closures
 * [​School Closures](/school-closures)
 * [Seismic Safety](/2016/10/20/seismic-upgrades)
-* PAN's [Brief to the MoE Calling for an Area Standards Review](/2018-10-15-area-standards) (October 2018)​
+* PAN's [Brief to the MoE Calling for an Area Standards Review](/2018/10/15/area-standards) (October 2018)​
     * PAN's [Area Standards Fact Sheet](/downloads/areastandards1pager_v3.pdf)
     * BCTF's [Motion of Support](/downloads/bctf_to_pan_re_bc_area_standards_april_1_2019.pdf) of PAN's Area Standard recommendations
 * Long Range Facilities Plans
